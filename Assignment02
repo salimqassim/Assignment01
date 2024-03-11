@@ -1,0 +1,16 @@
+package quizes.q1.salim_qassim_1.javarules;
+
+
+public class HappyBoy {
+    public static void main(String[] args) {
+        System.out.println("Class A");
+    }
+}
+
+
+public class HappyGirl {
+package quizes.q1.salim_qassim_1.iliaunirules;
+ public static void main(String[] args) {
+        System.out.println("Class B");
+    }
+}
